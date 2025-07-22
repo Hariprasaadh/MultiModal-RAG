@@ -127,6 +127,9 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# ChromaDB persistent storage
+chroma_db/
+
 # Environments
 .env
 .venv

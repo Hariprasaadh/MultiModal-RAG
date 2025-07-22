@@ -1,0 +1,12 @@
+numpy==1.26.4
+pandas==1.5.3
+pytz>=2024.1,<2025.0
+pillow>=10.1.0,<11.0.0
+torch==2.4.1
+opencv-python>=4.5.0
+langchain==0.3.13
+langchain-community==0.3.13
+pandasai==2.4.2
+mem0ai==0.1.36
+unstructured[pdf]
+unstructured-inference
