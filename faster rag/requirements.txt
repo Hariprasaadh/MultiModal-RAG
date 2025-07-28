@@ -1,0 +1,6 @@
+python-dotenv
+qdrant-client
+llama-index
+llama-index-embeddings-fastembed
+llama-index-llms-groq
+fastembed
